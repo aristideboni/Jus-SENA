@@ -7889,8 +7889,6 @@
           },
           "_cid": "u3K2f7TLmV",
           "_anchor": "shop04-3w",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [
             "shop__showSidebar",
             "shop__reverseSidebar",
@@ -8096,7 +8094,9 @@
                 "active": false
               }
             ]
-          }
+          },
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
